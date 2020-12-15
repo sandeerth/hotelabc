@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hotelabc"
+    }
+  },
+  "defaultProject": "hotelabc",
+  "cli": {
+    "analytics": "cb563845-6540-4b45-8a77-b781288f1db1"
+  }
 }
